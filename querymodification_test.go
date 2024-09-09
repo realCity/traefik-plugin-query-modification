@@ -2,7 +2,7 @@ package traefik_plugin_query_modification_test
 
 import (
 	"context"
-	traefik_plugin_query_modification "github.com/kingjan1999/traefik-plugin-query-modification"
+	traefik_plugin_query_modification "gitlab.webvalto.hu/realCity/tools/traefik-plugin-query-modification"
 	"net/http"
 	"net/http/httptest"
 	"testing"
