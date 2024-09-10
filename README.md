@@ -18,9 +18,9 @@ The following code snippet is a sample configuration for the dynamic file based 
 
   [http.middlewares]
     [http.middlewares.my-plugin.plugin.dev]
-      type = "modify"
-      paramName = "password"
-      newValue = "censored"
+      Type = "modify"
+      ParamName = "password"
+      NewValue = "censored"
 ```
 
 ## Configuration Overview
